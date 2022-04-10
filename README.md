@@ -1,4 +1,4 @@
-# Desafio Serviço de Assistência Técnica
+# ✔️ Desafio Serviço de Assistência Técnica
 
 - 🧠 Desenvolvido com base nos meus conhecimentos para atender clientes com problemas técnicos.
 
